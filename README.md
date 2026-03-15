@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Jojo!;%E2%9A%A1+Fundador+%40+SobbleMC+Network)](https://github.com/Jojozinho21)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+%3C%2FzJoo%3E!;%E2%9A%A1+Fundador+%40+SobbleMC+Network)](https://github.com/Jojozinho21)
 
 <br>
 
@@ -26,7 +26,7 @@
 ## 🧑‍💻 Sobre Mim
 
 ```yaml
-nome: Jojo
+nome: </zJoo>
 role: Full-Stack Developer & Minecraft Plugin Engineer
 org: SobbleMC Network
 localização: Brasil 🇧🇷
