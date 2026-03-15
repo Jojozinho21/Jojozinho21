@@ -79,7 +79,6 @@ foco_atual: Construindo o ecossistema de plugins do SobbleMC
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jojozinho21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&icon_color=00CEC9&title_color=6C5CE7&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jojozinho21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <br>
@@ -92,16 +91,6 @@ foco_atual: Construindo o ecossistema de plugins do SobbleMC
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jojozinho21&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=6C5CE7&point=00CEC9&area=true&area_color=6C5CE7" width="95%"/>
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Jojozinho21&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10)
-
 </div>
 
 ---
