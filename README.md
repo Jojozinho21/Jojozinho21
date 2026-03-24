@@ -33,10 +33,9 @@ localização: Brasil 🇧🇷
 foco_atual: Construindo o ecossistema de plugins do SobbleMC
 ```
 
-- ⚡ **Fundador do SobbleMC** — rede de servidores Minecraft com sistemas customizados
-- 🔧 Desenvolvo **plugins Spigot/Paper** com arquitetura profissional (Maven, HikariCP, APIs)
+- ⚡ **Fundador do SobbleMC** rede de servidores Minecraft com sistemas customizados
+- 🔧 Desenvolvo **plugins Spigot/Paper** com arquitetura profissional
 - 🤖 Crio **bots Discord** em TypeScript com discord.js v14
-- 🧠 Construo **workflows de IA** para automatizar desenvolvimento com Claude Code
 - 🎮 Apaixonado por criar experiências únicas para jogadores
 
 ---
